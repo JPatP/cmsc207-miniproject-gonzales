@@ -1,4 +1,5 @@
 "# cmsc207-miniproject-gonzales" 
+
 Project Overview
 
 This is a single-page personal website created as a mini-project for CMSC207 (Web Development). 
